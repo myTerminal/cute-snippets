@@ -1,5 +1,10 @@
 # observables
 
+## Background
+
+This one came out as a result of a casual competition in my team at my workplace to try to implement a small part of a JavaScript library like [Knockout.js](https://knockoutjs.com).
+We had so much fun while sharing our implementations with others and learnt a little about observables as well.
+
 ## Usage
 
 Create an observable as

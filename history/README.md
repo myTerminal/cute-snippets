@@ -1,5 +1,7 @@
 # history
 
+## Background
+
 Before I embraced [AngularJS](https://angularjs.org), my implementations used to be quite old-school with [jQuery](https://jquery.com) as a DOM manipulation library and [Knockout.js](https://knockoutjs.com) playing a major role to bind data to my application views.
 I do not remember how and where I came up with this small magical snippet (or was is that I got it from somewhere on the internet), but it seemed to work perfectly for all my routing needs.
 
