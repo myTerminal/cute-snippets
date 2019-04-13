@@ -1,3 +1,3 @@
 # cute-snippets
 
-A few (cute) snippets implementing a small features of popular software
+A few (cute) snippets implementing a few small features commonly found in software

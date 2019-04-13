@@ -18,7 +18,7 @@ gives you
 
     nil
 
-However, calling `nth-cylcic`
+However, calling `nth-cyclic`
 
     (nth-cyclic 4 '("apple" "banana" "mango"))
 
